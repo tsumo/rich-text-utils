@@ -1,0 +1,23 @@
+{
+  "name": "rich-text-utils",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsumo/rich-text-utils.git"
+  },
+  "author": "tsumo",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/tsumo/rich-text-utils/issues"
+  },
+  "homepage": "https://github.com/tsumo/rich-text-utils#readme",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
