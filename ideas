@@ -1,0 +1,6 @@
+type Formats = 'bold' | 'italic'
+
+const renderer = createRenderer({
+  bold: 'boldClass',
+  italic: 'italicClass',
+})
